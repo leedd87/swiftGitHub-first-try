@@ -12,7 +12,8 @@ struct ContentView: View {
         Text("Hello, Universo!")
             .padding()
         Text("first XCODE GitHub test").padding()
-        Text("by: David Lee").padding()
+        Text("by: David Lee 1987").padding()
+        Text("testing 2")
     }
 }
 
